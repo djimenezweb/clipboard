@@ -1,0 +1,8 @@
+@mixin outline {
+
+    *,
+    ::before,
+    ::after {
+        outline: 1px dashed rgba(255, 0, 0, 0.4);
+    }
+}

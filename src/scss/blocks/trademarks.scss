@@ -1,0 +1,17 @@
+@use '../mixins/responsive.scss' as*;
+
+.trademarks {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 4rem;
+    margin-bottom: 6rem;
+
+    @include responsive(desktop) {
+        margin-bottom: 0;
+        padding: 0 10rem 160px;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+}

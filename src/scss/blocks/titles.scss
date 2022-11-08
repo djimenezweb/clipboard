@@ -1,0 +1,27 @@
+@use '../mixins/responsive.scss' as*;
+
+h1,
+h2,
+h3 {
+    color: var(--dark-grayish-blue)
+}
+
+.header__title {
+    font-size: 2rem;
+
+    @include responsive(desktop) {
+        font-size: 2.5rem;
+    }
+}
+
+.article__title {
+    font-size: 1.5rem;
+
+    @include responsive(desktop) {
+        font-size: 2rem;
+    }
+}
+
+.title-small {
+    font-size: 1.2rem;
+}
