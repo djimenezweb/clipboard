@@ -4,7 +4,7 @@
 
 ## Ejemplo en vivo
 
-- [Vista en vivo](https://djimenezweb.github.io/clipboard)
+- [Vista en vivo](https://djimenezweb.github.io/clipboard/dist)
 
 ## Descripción 📑
 
@@ -39,7 +39,7 @@ Si quieres echar un vistazo al proyecto, te recomiendo:
 
 **Daniel Jiménez**
 
-- [djimenezweb@gmail.com](djimenezweb@gmail.com)
+- <a href="mailto:djimenezweb@gmail.com">djimenezweb@gmail.com</a>
 - [LinkedIn](https://www.linkedin.com/in/djimenezweb)
 - [Porfolio web](https://tu-dominio.com/)
 
